@@ -1,6 +1,6 @@
 - Put your tasks here
 
-  - Murat - https://github.com/MuratMerdoglu/course-tasks-questions.git
+  - Murat - sample_task.git
 
   - Suleyman - https://github.com/skulleci/flexbox.git
 
