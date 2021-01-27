@@ -1,6 +1,6 @@
 - Put your tasks here
 
-  - Murat - sample_task.git
+  - Murat - sampleTask.git
 
   - Suleyman - https://github.com/skulleci/flexbox.git
 
