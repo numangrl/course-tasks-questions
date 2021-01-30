@@ -13,4 +13,8 @@
   
   - Gökmen - https://github.com/gsismandnm/Danimarka.git
   
-  
+   - Kadir - https://github.com/kadir4530/myfirstrepo
+
+  -Ethem-   https://github.com/ethembas/firstcode.git
+
+  -YASIN- https://github.com/yasinmnk/TASKS.git
