@@ -12,3 +12,7 @@
   - Aykut - https://codepen.io/ayktldg/pen/QWKRYzP 
   
   - Kadir - https://github.com/kadir4530/myfirstrepo
+
+  -Ethem-   https://github.com/ethembas/firstcode.git
+
+  -YASIN- https://github.com/yasinmnk/TASKS.git
