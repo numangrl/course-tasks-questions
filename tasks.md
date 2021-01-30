@@ -12,6 +12,8 @@
 
   - Aykut - https://codepen.io/ayktldg/pen/QWKRYzP 
   
+  -Hilmi-https://github.com/Hilmicolak/firtina-izmir.git
+  
   - Gökmen - https://github.com/gsismandnm/Danimarka.git
   
    - Kadir - https://github.com/kadir4530/myfirstrepo
