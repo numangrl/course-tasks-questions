@@ -35,6 +35,8 @@
   - Suleyman - https://github.com/skulleci/bootstrap_odev.git
   
   - Ahmet EMRE - https://github.com/ahmetemre38/BootstrapExample1
+
+  - Kadir - https://github.com/kadir4530/cinance
   
   - Gökmen - https://github.com/gsismandnm/02_Bootstrap.git
 
