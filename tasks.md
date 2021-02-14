@@ -47,3 +47,8 @@
   - Kenan - https://github.com/kenansahin10/BootstrapTask/
   
   - Numan - https://github.com/numangrl/info.git
+  
+---------------------------------------------------------------
+javascript odev teslimleri
+---------------------------------------------------------------
+
