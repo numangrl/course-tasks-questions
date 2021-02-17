@@ -23,5 +23,34 @@
   -Ethem-   https://github.com/ethembas/firstcode.git
 
   -YASIN- https://github.com/yasinmnk/TASKS.git
+ 
+  - Numan -  https://github.com/nman-grl/hideexist.git
+  
+  -Yasin -https://github.com/yasinmnk/boostrap.git
 
-  - Burhan - https://github.com/burhansaydin/js-task-3.git
+
+ -TUGRUL- https://github.com/TugrulCagriTurgut/First.git
+---------------------------------
+
+  - Suleyman - https://github.com/skulleci/bootstrap_odev.git
+  
+  - Ahmet EMRE - https://github.com/ahmetemre38/BootstrapExample1
+
+  - Aykut - https://codepen.io/ayktldg/pen/mdOVopZ?editors=1000
+
+  - Kadir - https://github.com/kadir4530/cinance
+  
+  - Gökmen - https://github.com/gsismandnm/02_Bootstrap.git
+
+  - Selman - https://github.com/slmn-sari/bootstrapt1
+  
+  - Kenan - https://github.com/kenansahin10/BootstrapTask/
+  
+  - Numan - https://github.com/numangrl/info.git
+  
+---------------------------------------------------------------
+javascript odev teslimleri
+---------------------------------------------------------------
+- Kadir - https://github.com/kadir4530/js-async-programming.git
+
+- Burhan - https://github.com/burhansaydin/js-task-3.git
