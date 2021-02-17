@@ -56,3 +56,5 @@ javascript odev teslimleri
 - Aykut - https://github.com/ayktldg/async-functions
 
 - Burhan - https://github.com/burhansaydin/js-task-3.git
+
+- Yasin - https://github.com/yasinmnk/js-aync.git
