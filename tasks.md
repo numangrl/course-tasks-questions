@@ -60,7 +60,9 @@ javascript odev teslimleri
 
 - Yasin - https://github.com/yasinmnk/js-aync.git
 
-- Ahmet - https://github.com/ahmetemre38/asenkronOdev      
+- Ahmet - https://github.com/ahmetemre38/asenkronOdev  
+
+- Sezer - https://github.com/sezerbayram/js_homework_001.git    
 
 
 
