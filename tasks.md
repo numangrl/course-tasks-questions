@@ -65,5 +65,5 @@ javascript odev teslimleri
 
 - Sezer - https://github.com/sezerbayram/js_homework_001.git    
 
-
+- Numan - https://github.com/numangrl/asenkronOdev.git
 
