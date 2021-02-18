@@ -51,10 +51,23 @@
 ---------------------------------------------------------------
 javascript odev teslimleri
 ---------------------------------------------------------------
+  - Suleyman - https://github.com/skulleci/javascript2.week.git  
 - Kadir - https://github.com/kadir4530/js-async-programming.git
 
 - Aykut - https://github.com/ayktldg/async-functions
 
 - Burhan - https://github.com/burhansaydin/js-task-3.git
 
+
 - Kemal -  https://github.com/kenansahin10/deneme
+
+
+- Yasin - https://github.com/yasinmnk/js-aync.git
+
+- Ahmet - https://github.com/ahmetemre38/asenkronOdev  
+
+- Sezer - https://github.com/sezerbayram/js_homework_001.git    
+
+
+
+
