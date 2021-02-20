@@ -27,9 +27,9 @@
   - Numan -  https://github.com/nman-grl/hideexist.git
   
   -Yasin -https://github.com/yasinmnk/boostrap.git
+  
+  -TUGRUL- https://github.com/TugrulCagriTurgut/First.git
 
-
- -TUGRUL- https://github.com/TugrulCagriTurgut/First.git
 ---------------------------------
 
   - Suleyman - https://github.com/skulleci/bootstrap_odev.git
@@ -51,22 +51,23 @@
 ---------------------------------------------------------------
 javascript odev teslimleri
 ---------------------------------------------------------------
-  - Suleyman - https://github.com/skulleci/javascript2.week.git  
+- Suleyman - https://github.com/skulleci/javascript2.week.git  
+
 - Kadir - https://github.com/kadir4530/js-async-programming.git
 
 - Aykut - https://github.com/ayktldg/async-functions
 
 - Burhan - https://github.com/burhansaydin/js-task-3.git
 
-
 - Kemal -  https://github.com/kenansahin10/deneme
-
 
 - Yasin - https://github.com/yasinmnk/js-aync.git
 
 - Ahmet - https://github.com/ahmetemre38/asenkronOdev  
 
-- Sezer - https://github.com/sezerbayram/js_homework_001.git    
+- Sezer - https://github.com/sezerbayram/js_homework_001.git  
+
+- Gökmen - https://github.com/gsismandnm/04_Js_Home_Work_01
 
 
 
