@@ -59,6 +59,8 @@ javascript odev teslimleri
 
 - Burhan - https://github.com/burhansaydin/js-task-3.git
 
+- Kemal -  https://github.com/kenansahin10/deneme
+
 - Yasin - https://github.com/yasinmnk/js-aync.git
 
 - Ahmet - https://github.com/ahmetemre38/asenkronOdev  
@@ -66,6 +68,7 @@ javascript odev teslimleri
 - Sezer - https://github.com/sezerbayram/js_homework_001.git  
 
 - Gökmen - https://github.com/gsismandnm/04_Js_Home_Work_01
+
 
 
 
