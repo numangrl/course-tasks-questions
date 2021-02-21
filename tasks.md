@@ -71,4 +71,6 @@ javascript odev teslimleri
 
 - Numan - https://github.com/numangrl/odevasenkron.git
 
+- Selman - https://github.com/slmn-sari/odevasenkron4week.git
+
 
