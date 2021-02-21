@@ -69,6 +69,6 @@ javascript odev teslimleri
 
 - Gökmen - https://github.com/gsismandnm/04_Js_Home_Work_01
 
-
+- Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
 
