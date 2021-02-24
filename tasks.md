@@ -52,3 +52,7 @@
 javascript odev teslimleri
 ---------------------------------------------------------------
   - Suleyman - https://github.com/skulleci/javascript2.week.git
+
+javascript 3. hafta ödev teslimleri (Calculater)
+
+  - Suleyman - https://github.com/skulleci/3.hafta_calcuodev.git
