@@ -54,3 +54,5 @@ javascript odev teslimleri
 - Kadir - https://github.com/kadir4530/js-async-programming.git
 
 - Burhan - https://github.com/burhansaydin/js-task-3.git
+
+- Burhan -https://github.com/burhansaydin/calc.git
