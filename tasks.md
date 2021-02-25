@@ -73,4 +73,5 @@ javascript odev teslimleri
 
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
+- Kadir - https://github.com/kadir4530/js-task-calc.git
 
