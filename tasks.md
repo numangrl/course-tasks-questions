@@ -73,6 +73,14 @@ javascript odev teslimleri
 
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
-- Gökmen - https://github.com/gsismandnm/06_Task_Calculator.git
+
+---------------------------------------------------------------
+Calculator
+---------------------------------------------------------------
+
+  -Sezer - https://github.com/sezerbayram/hesapmakinesi.git
+  
+  - Gökmen - https://github.com/gsismandnm/06_Task_Calculator.git
+
 
 
