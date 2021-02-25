@@ -33,7 +33,7 @@
 ---------------------------------
 
   - Suleyman - https://github.com/skulleci/bootstrap_odev.git
-  
+ 
   - Ahmet EMRE - https://github.com/ahmetemre38/BootstrapExample1
 
   - Aykut - https://codepen.io/ayktldg/pen/mdOVopZ?editors=1000
@@ -73,10 +73,14 @@ javascript odev teslimleri
 
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
+
 ---------------------------------------------------------------
 Calculator
 ---------------------------------------------------------------
 
   -Sezer - https://github.com/sezerbayram/hesapmakinesi.git
+  
+  - Gökmen - https://github.com/gsismandnm/06_Task_Calculator.git
+
 
 
