@@ -73,4 +73,5 @@ javascript odev teslimleri
 
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
+- Yasin - https://github.com/yasinmnk/week3.git
 
