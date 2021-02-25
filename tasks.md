@@ -73,4 +73,4 @@ javascript odev teslimleri
 
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
-
+-Tuğrul  -https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
