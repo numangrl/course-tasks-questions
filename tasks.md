@@ -82,5 +82,5 @@ Calculator
   
   - Gökmen - https://github.com/gsismandnm/06_Task_Calculator.git
 
-
+  - Selman -  https://github.com/slmn-sari/3.hafta-odevi.git
 
