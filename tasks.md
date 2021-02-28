@@ -51,6 +51,8 @@
 ---------------------------------------------------------------
 javascript odev teslimleri
 ---------------------------------------------------------------
+  - Suleyman - https://github.com/skulleci/javascript2.week.git
+
 - Suleyman - https://github.com/skulleci/javascript2.week.git  
 
 - Kadir - https://github.com/kadir4530/js-async-programming.git
@@ -82,5 +84,6 @@ Calculator
   
   - Gökmen - https://github.com/gsismandnm/06_Task_Calculator.git
 
+  - Suleyman - https://github.com/skulleci/3.hafta_calcuodev.git
 
 
