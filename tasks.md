@@ -81,7 +81,6 @@ javascript odev teslimleri
 ---------------------------------------------------------------
 Hesap Makinesi odev teslimleri
 ---------------------------------------------------------------
-- Ahmet - https://github.com/ahmetemre38/HesapMakinesi
 
 ---------------------------------------------------------------
 Calculator
@@ -94,5 +93,9 @@ Calculator
   - Suleyman - https://github.com/skulleci/3.hafta_calcuodev.git
 
 - Burhan -https://github.com/burhansaydin/calc.git
+- Kadir - https://github.com/kadir4530/js-task-calc.git
+- Ahmet - https://github.com/ahmetemre38/HesapMakinesi
+
+
 
 
