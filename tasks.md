@@ -95,6 +95,8 @@ Calculator
 - Burhan -https://github.com/burhansaydin/calc.git
 - Kadir - https://github.com/kadir4530/js-task-calc.git
 - Ahmet - https://github.com/ahmetemre38/HesapMakinesi
+-Tuğrul  -https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
+
 
 
 
