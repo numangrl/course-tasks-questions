@@ -78,6 +78,10 @@ javascript odev teslimleri
 
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
+---------------------------------------------------------------
+Hesap Makinesi odev teslimleri
+---------------------------------------------------------------
+- Ahmet - https://github.com/ahmetemre38/HesapMakinesi
 
 ---------------------------------------------------------------
 Calculator
