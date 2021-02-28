@@ -98,6 +98,7 @@ Calculator
 -Tuğrul  -https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
 
 Aykut - https://github.com/ayktldg/calculator
+- Kemal - https://github.com/kenansahin10/week3odev.git
 
 
 
