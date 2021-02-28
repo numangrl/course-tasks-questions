@@ -33,7 +33,7 @@
 ---------------------------------
 
   - Suleyman - https://github.com/skulleci/bootstrap_odev.git
-  
+ 
   - Ahmet EMRE - https://github.com/ahmetemre38/BootstrapExample1
 
   - Aykut - https://codepen.io/ayktldg/pen/mdOVopZ?editors=1000
@@ -51,9 +51,14 @@
 ---------------------------------------------------------------
 javascript odev teslimleri
 ---------------------------------------------------------------
+  - Suleyman - https://github.com/skulleci/javascript2.week.git
+
 - Suleyman - https://github.com/skulleci/javascript2.week.git  
 
 - Kadir - https://github.com/kadir4530/js-async-programming.git
+
+- Burhan - https://github.com/burhansaydin/js-task-3.git
+
 
 - Aykut - https://github.com/ayktldg/async-functions
 
@@ -73,6 +78,28 @@ javascript odev teslimleri
 
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
 
+---------------------------------------------------------------
+Hesap Makinesi odev teslimleri
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Calculator
+---------------------------------------------------------------
+
+  -Sezer - https://github.com/sezerbayram/hesapmakinesi.git
+  
+  - Gökmen - https://github.com/gsismandnm/06_Task_Calculator.git
+
+  - Suleyman - https://github.com/skulleci/3.hafta_calcuodev.git
+
+- Burhan -https://github.com/burhansaydin/calc.git
+- Kadir - https://github.com/kadir4530/js-task-calc.git
+- Ahmet - https://github.com/ahmetemre38/HesapMakinesi
+-Tuğrul  -https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
+
+Aykut - https://github.com/ayktldg/calculator
 - Kemal - https://github.com/kenansahin10/week3odev.git
+
+
 
 
