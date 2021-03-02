@@ -44,7 +44,6 @@ javascript odev teslimleri
 - Gökmen - https://github.com/gsismandnm/04_Js_Home_Work_01
 - Numan - https://github.com/numangrl/odevasenkron.git
 - Selman - https://github.com/slmn-sari/odevasenkron4week.git
-- Yasin - https://github.com/yasinmnk/week3.git
 
 
 ---------------------------------------------------------------
@@ -61,6 +60,8 @@ Calculator
 - Aykut - https://github.com/ayktldg/calculator
 - Kemal - https://github.com/kenansahin10/week3odev.git
 - Numan - https://github.com/numangrl/week3odev.git
+- Yasin - https://github.com/yasinmnk/week3.git
+
 
 
 ---------------------------------------------------------------
