@@ -67,5 +67,6 @@ Calculator
 Arrays
 ---------------------------------------------------------------
 - Suleyman - https://github.com/skulleci/4.hafta.git
+- Burhan - https://github.com/burhansaydin/array.git
 
 
