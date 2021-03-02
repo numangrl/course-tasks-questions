@@ -67,7 +67,27 @@ Calculator
 ---------------------------------------------------------------
 Arrays
 ---------------------------------------------------------------
+Takim #1
 - Suleyman - https://github.com/skulleci/4.hafta.git
+- Ahmet
+- Kemal
+- Selman
+- Numan
+
+Takim #2
 - Burhan - https://github.com/burhansaydin/array.git
+- Kadircan
+- Aykut
+- Furkan
+- Yasin
+- Onur
+- Kadir
+
+Takim #3
+- Sezer
+- Gökmen
+- Ethem
+- Tugrul
+- Ömer
 
 
