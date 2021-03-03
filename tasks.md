@@ -85,7 +85,7 @@ Takim #2
 
 Takim #3
 - Sezer
-- Gökmen
+- Gökmen - https://github.com/gsismandnm/09_Task_Array.git
 - Ethem
 - Tugrul
 - Ömer
