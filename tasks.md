@@ -77,7 +77,7 @@ Takim #1
 Takim #2
 - Burhan - https://github.com/burhansaydin/array.git
 - Kadircan
-- Aykut
+- Aykut - https://github.com/ayktldg/week4
 - Furkan
 - Yasin
 - Onur
