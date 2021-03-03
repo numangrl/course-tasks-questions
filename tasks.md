@@ -81,7 +81,7 @@ Takim #2
 - Furkan
 - Yasin
 - Onur
-- Kadir
+- Kadir - https://github.com/kadir4530/js-task-array.git
 
 Takim #3
 - Sezer
