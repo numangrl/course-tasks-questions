@@ -79,7 +79,7 @@ Takim #2
 - Kadircan
 - Aykut
 - Furkan
-- Yasin
+- Yasin - https://github.com/yasinmnk/week4task.git  
 - Onur
 - Kadir
 
