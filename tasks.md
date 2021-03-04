@@ -71,7 +71,7 @@ Takim #1
 - Suleyman - https://github.com/skulleci/4.hafta.git
 - Ahmet
 - Kemal
-- Selman
+- Selman - https://github.com/slmn-sari/week4homework.git
 - Numan
 
 Takim #2
