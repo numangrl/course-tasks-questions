@@ -72,7 +72,7 @@ Takim #1
 - Ahmet
 - Kemal
 - Selman
-- Numan
+- Numan - https://github.com/numangrl/week4homework.git
 
 Takim #2
 - Burhan - https://github.com/burhansaydin/array.git
