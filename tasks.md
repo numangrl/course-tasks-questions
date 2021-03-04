@@ -69,7 +69,7 @@ Arrays
 ---------------------------------------------------------------
 Takim #1
 - Suleyman - https://github.com/skulleci/4.hafta.git
-- Ahmet
+- Ahmet - https://github.com/ahmetemre38/arrayOdev
 - Kemal
 - Selman - https://github.com/slmn-sari/week4homework.git
 - Numan
