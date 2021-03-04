@@ -87,7 +87,7 @@ Takim #3
 - Sezer
 - Gökmen - https://github.com/gsismandnm/09_Task_Array.git
 - Ethem
-- Tugrul
+- Tugrul -https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
 - Ömer
 
 
