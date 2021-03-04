@@ -69,25 +69,27 @@ Arrays
 ---------------------------------------------------------------
 Takim #1
 - Suleyman - https://github.com/skulleci/4.hafta.git
-- Ahmet
+- Ahmet - https://github.com/ahmetemre38/arrayOdev
 - Kemal
+
 - Selman
 - Numan - https://github.com/numangrl/week4homework.git
+- Selman - https://github.com/slmn-sari/week4homework.git
 
 Takim #2
 - Burhan - https://github.com/burhansaydin/array.git
 - Kadircan
-- Aykut
+- Aykut - https://github.com/ayktldg/week4
 - Furkan
-- Yasin
+- Yasin - https://github.com/yasinmnk/week4task.git  
 - Onur
-- Kadir
+- Kadir - https://github.com/kadir4530/js-task-array.git
 
 Takim #3
-- Sezer
+- Sezer  - https://github.com/sezerbayram/jsarray.git
 - Gökmen - https://github.com/gsismandnm/09_Task_Array.git
 - Ethem
-- Tugrul
+- Tugrul -https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
 - Ömer
 
 
