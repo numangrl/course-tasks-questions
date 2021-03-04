@@ -79,7 +79,7 @@ Takim #2
 - Kadircan
 - Aykut - https://github.com/ayktldg/week4
 - Furkan
-- Yasin
+- Yasin - https://github.com/yasinmnk/week4task.git  
 - Onur
 - Kadir - https://github.com/kadir4530/js-task-array.git
 
