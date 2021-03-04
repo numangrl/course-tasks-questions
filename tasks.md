@@ -84,7 +84,7 @@ Takim #2
 - Kadir
 
 Takim #3
-- Sezer
+- Sezer  - https://github.com/sezerbayram/jsarray.git
 - Gökmen - https://github.com/gsismandnm/09_Task_Array.git
 - Ethem
 - Tugrul
